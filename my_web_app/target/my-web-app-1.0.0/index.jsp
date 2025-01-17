@@ -12,7 +12,7 @@
  
     <h1>Hello! from Anjali</h1>
  
-    <p>This is a simple web application deployed on Tomcat.Welcome! to my online shopping site. Deals! going on...</p>
+    <p>This is a simple web application deployed on Tomcat</p>
  
 </body>
  
