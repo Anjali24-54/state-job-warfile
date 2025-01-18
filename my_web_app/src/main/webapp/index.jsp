@@ -10,7 +10,7 @@
  
 <body>
  
-    <h1>Hello! from Anjali and Lets shop!!</h1>
+    <h1>Hello! from Anjali and Let's shop!!</h1>
  
     <p>This is a simple web application deployed on Tomcat.Welcome! to my online shopping site. Deals! going on...</p>
  
