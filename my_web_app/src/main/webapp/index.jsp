@@ -10,7 +10,7 @@
  
 <body>
  
-    <h1>Hello! from Anjali. connection check !!!.</h1>
+    <h1>Hello! from Anjali. Post built check!!!.</h1>
  
     <p>This is a simple web application deployed on Tomcat.Welcome! Deals! going on hurry up!!</p>
  
