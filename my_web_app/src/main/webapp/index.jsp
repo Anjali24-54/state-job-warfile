@@ -12,7 +12,7 @@
  
     <h1>Hello! from Anjali. Port 5757 open!!!</h1>
  
-    <p>This is a simple web application deployed on Tomcat.Welcome! Deals! going on hurry up!!</p>
+    <p>This is a trial for github-webhook trigger!!</p>
  
 </body>
  
